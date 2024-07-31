@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @MrCoolGuy640
 - 🆕 I'm a newbie programmer!
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning python!
+- 🌱 I’m currently learning Python & Java!
 - 📫 You can reach me by contacting me on discord (MrCoolGuy640)!
 
 <!---
