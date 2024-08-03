@@ -1,3 +1,5 @@
+[![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png) Discord](https://discord.com/users/700560289766047847)
+
 
 - 👋 Hi, I’m @MrCoolGuy640
 - 🆕 I'm a newbie programmer!
