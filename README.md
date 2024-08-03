@@ -7,6 +7,9 @@
 - 👋 Hey, I'm @MrCoolGuy640, I'm interested in programming!
 - 🌱 Python, Java
 
+<!-- profile views counter -->
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <!---
 MrCoolGuy640/MrCoolGuy640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
