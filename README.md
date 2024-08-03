@@ -8,7 +8,7 @@
 - 🌱 Python, Java
 
 <!-- profile views counter -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=MrCoolGuy640)
 
 <!---
 MrCoolGuy640/MrCoolGuy640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
