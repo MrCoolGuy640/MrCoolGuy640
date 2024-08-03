@@ -1,4 +1,4 @@
-[![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png) Discord](https://discord.com/users/700560289766047847)
+[![Discord](https://cdn2.steamgriddb.com/icon/95c9d994f8d75d4d60f8bb8f25902339/32/256x256.pn) Discord](https://discord.com/users/700560289766047847)
 
 
 - 👋 Hi, I’m @MrCoolGuy640
