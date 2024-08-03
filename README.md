@@ -1,4 +1,6 @@
-[![Discord](https://cdn2.steamgriddb.com/icon/95c9d994f8d75d4d60f8bb8f25902339/32/256x256.png) Discord](https://discord.com/users/700560289766047847)
+<a href="https://discord.com/users/700560289766047847">
+  <img src="https://cdn2.steamgriddb.com/icon/95c9d994f8d75d4d60f8bb8f25902339/32/256x256.png" alt="Discord" width="100" />
+</a>
 
 
 - 👋 Hi, I’m @MrCoolGuy640
